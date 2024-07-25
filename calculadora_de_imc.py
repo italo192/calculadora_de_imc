@@ -2,9 +2,9 @@ from tkinter import *
 from tkinter.ttk import Progressbar, Style
 
 # Cores
-cor1 = "#363434"  # Preto
+cor1 = "#363434"  # vermelho
 cor2 = "#feffff"  # Branco
-cor3 = "#37474F"  # Preto
+cor3 = "#37474F"  # azul ciano escuro
 
 
 # Categorias de IMC e suas cores
